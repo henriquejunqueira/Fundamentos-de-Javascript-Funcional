@@ -4,3 +4,4 @@
 
 - Módulo 01 - Introdução
 - Módulo 02 - Fundamentos
+- Módulo 03 - Programação Funcional
